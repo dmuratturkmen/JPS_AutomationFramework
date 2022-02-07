@@ -1,0 +1,11 @@
+com\teladoc\pages\UserAddDeletePage.class
+com\teladoc\runner\Runner.class
+com\teladoc\utilities\BrowserUtils$2.class
+com\teladoc\utilities\Driver.class
+com\teladoc\utilities\ConfigurationReader.class
+com\teladoc\steps\UserAddDeleteStep.class
+com\teladoc\utilities\BrowserUtils.class
+com\teladoc\steps\Hooks.class
+com\teladoc\pages\BasePage.class
+com\teladoc\runner\FailedTestRunner.class
+com\teladoc\utilities\BrowserUtils$1.class
