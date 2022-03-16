@@ -36,7 +36,6 @@ src/test/resources/features
 Stores feature files where Test Scenarios are created in plain English using Gherkin language with keywords such as ```Feature```, ```Scenario```, ```Given```, ```When```, ```Then``` etc.
 Tags used in the feature file helps to specify the flow and run order.
 # ![featurescr](https://user-images.githubusercontent.com/96667168/158705179-725ab69d-0944-4f53-9759-a4af2bebcb00.jpg)
-)
 #### Pages package:
 ```
 src/test/java/com/JPS/pages
@@ -60,8 +59,6 @@ com/JPS/runner/Runner.java
 Use runner class to trigger the framework. It is more like a starting point for the Junit to start executing tests through Junit ```@RunWith()``` annotation. ```@RunWith``` annotation tells JUnit that tests should run using Cucumber class present in ```'Cucumber.api.junit'``` package. Another important thing to mention is ```
   @CucumberOptions annotation```. This annotation tells Cucumber a lot of things like where to look for feature files, steps, what reporting system to use and other plugins like rerun for failed tests. Cucumber finds the Step Definition file with the help of the Glue code in Cucumber Options.
 # ![runnerscr](https://user-images.githubusercontent.com/96667168/158706202-86cb1d08-5be0-445a-8e33-2449d3c751b9.jpg)
-)
-
 ## Reports
 The framework uses Cucumber Html Report which can be found under target folder. 
 ```script
