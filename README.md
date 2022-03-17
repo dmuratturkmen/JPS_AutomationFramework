@@ -69,4 +69,4 @@ The report can be reached through this path:
 target/target/cucumber-html-reports/overview-features.html
 ```
 ![scr1](https://user-images.githubusercontent.com/96667168/158706268-a771c296-3b4e-4f86-a4fd-8b5a46f3c23a.jpg) 
-# ![scr2](https://user-images.githubusercontent.com/96667168/152039460-75ff532f-1e07-42f1-9467-6b0ae99fe205.png)
+# ![scr2](https://user-images.githubusercontent.com/96667168/158730904-d973fd86-c236-47b5-9a11-209f9d6b1802.jpg)
